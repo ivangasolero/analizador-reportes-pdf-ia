@@ -1,0 +1,5 @@
+{
+  "name": "Analizador de Reportes PDF con IA",
+  "description": "Una aplicación que utiliza la IA de Gemini para analizar reportes en PDF de marketing, soporte, herramientas y administración, extrayendo resúmenes, métricas clave, recomendaciones y logros.",
+  "requestFramePermissions": []
+}
